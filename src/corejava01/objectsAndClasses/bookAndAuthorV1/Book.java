@@ -1,5 +1,10 @@
 package corejava01.objectsAndClasses.bookAndAuthorV1;
 
+/*
+ * This example illustrates HAS-A relationship between two objects.
+ * 
+ * 
+ */
 public class Book {
 
 	private String name;
